@@ -2,4 +2,4 @@
 
 # Return the value float type.
 def main():
-    return -2
+    return 1.5
