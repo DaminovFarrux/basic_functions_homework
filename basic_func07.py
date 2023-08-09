@@ -3,5 +3,6 @@
 # Create function arguments a.
 
 # Return the value a.
-def main():
-    return -2
+def main(a):
+    return a
+print(main(12))
